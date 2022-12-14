@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Migs
-- 👀 I’m interested in C#/Python/Sql Server
-- 🌱 I’m currently learning to develop
+- 👀 I’m have experience in C#/.Net/Sql Server
+- 🌱 I’m currently looking for SDE positions
 - 💞️ I’m looking to collaborate on anything interesting
 
 <!---
